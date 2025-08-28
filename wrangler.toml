@@ -1,0 +1,10 @@
+name = "getip"
+main = "src/worker.ts"
+compatibility_date = "2025-02-01"
+
+[routes]
+# You can bind a custom domain or use workers.dev
+
+[vars]
+APP_NAME = "getip"
+
